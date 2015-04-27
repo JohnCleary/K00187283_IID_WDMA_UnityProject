@@ -1,0 +1,53 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R9 200 Series (ID=0x67b1)
+    Vendor:   ATI
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\Unity Projects\Main Project\Lost at Sea - A journey through hell_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\Unity Projects\Main Project\Lost at Sea - A journey through hell_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\Unity Projects\Main Project\Lost at Sea - A journey through hell_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading G:\Unity Projects\Main Project\Lost at Sea - A journey through hell_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: G:\Unity Projects\Main Project\Lost at Sea - A journey through hell_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\Unity Projects\Main Project\Lost at Sea - A journey through hell_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\Unity Projects\Main Project\Lost at Sea - A journey through hell_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading G:\Unity Projects\Main Project\Lost at Sea - A journey through hell_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: G:\Unity Projects\Main Project\Lost at Sea - A journey through hell_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading G:\Unity Projects\Main Project\Lost at Sea - A journey through hell_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: G:\Unity Projects\Main Project\Lost at Sea - A journey through hell_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\Unity Projects\Main Project\Lost at Sea - A journey through hell_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.070 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: G:\Unity Projects\Main Project\Lost at Sea - A journey through hell_Data\Managed\System.Core.dll (this message is harmless)
+Script error (Click): Start() can not take parameters.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/Runtime/Mono/MonoScriptCache.cpp Line: 376)
+
+Script error (Click): Start() can not take parameters.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/Runtime/Mono/MonoScriptCache.cpp Line: 376)
+
+Platform assembly: G:\Unity Projects\Main Project\Lost at Sea - A journey through hell_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 2.268854 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 0.607060 ms (FindLiveObjects: 0.017810 ms CreateObjectMapping: 0.006943 ms MarkObjects: 0.147010 ms  DeleteObjects: 0.004226 ms)
+
+Platform assembly: G:\Unity Projects\Main Project\Lost at Sea - A journey through hell_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 4.881538 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 468.
+Total: 2.194896 ms (FindLiveObjects: 0.054638 ms CreateObjectMapping: 0.034715 ms MarkObjects: 0.358319 ms  DeleteObjects: 0.027470 ms)
+
+UnloadTime: 1.957324 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 447.
+Total: 2.527858 ms (FindLiveObjects: 0.054336 ms CreateObjectMapping: 0.038639 ms MarkObjects: 0.454616 ms  DeleteObjects: 0.285568 ms)
+
